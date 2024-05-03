@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @927621BEC159Ragavi
 - 🌱 I’m currently pursuring my Bachelor of Engineering in the field of Electronics and Communication Engineering at M. Kumarasamy College of Engineering.
-- - 👀 I'm an ECE student passionate about circuits, systems, and networks, eager to apply skills and contribute to advancements. Also keen on coding and problem-solving, always exploring new tech.
+- 👀 I'm an ECE student passionate about circuits, systems, and networks, eager to apply skills and contribute to advancements. Also keen on coding and problem-solving, always exploring new tech.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I just wrote my first "Hello, World!" program and felt like I conquered the world!
